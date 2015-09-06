@@ -19,7 +19,6 @@
   "dependencies": {
     "accounting": "^0.4.1",
     "camelcase-keys": "^1.0.0",
-    "colors": "^1.1.2",
     "lodash": "^3.10.1",
     "moment": "^2.10.6",
     "pretty-ms": "^2.0.0",
