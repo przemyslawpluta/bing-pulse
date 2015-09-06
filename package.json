@@ -1,0 +1,44 @@
+{
+  "name": "bing-pulse",
+  "preferGlobal": false,
+  "version": "0.1.0",
+  "author": "Przemyslaw Pluta <przemyslawplutadev@gmail.com> (http://przemyslawpluta.com)",
+  "description": "consume bing pulse api",
+  "main": "bing-pulse.js",
+  "directories": {
+    "example": "examples"
+  },
+  "homepage": "https://github.com/przemyslawpluta/bing-pulse",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/przemyslawpluta/bing-pulse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/przemyslawpluta/bing-pulse/issues"
+  },
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "camelcase-keys": "^1.0.0",
+    "colors": "^1.1.2",
+    "lodash": "^3.10.1",
+    "moment": "^2.10.6",
+    "pretty-ms": "^2.0.0",
+    "request": "^2.61.0",
+    "sort-object": "^3.0.0",
+    "waitjs": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pulse",
+    "bing",
+    "api",
+    "data"
+  ],
+  "engines": {
+    "node": ">= 0.8.x"
+  },
+  "license": "MIT"
+}

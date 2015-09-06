@@ -1,0 +1,13 @@
+{
+    "host": "pulseapi.bing.com",
+    "apiRoot": "api",
+    "apiVersion": "v1",
+    "eventStatuses": ["not started", "pre event", "live", "post event"],
+    "questionStatuses": ["queued", "open", "closed"],
+    "endpoints": {
+        "pulseAggregates": "pulseaggregates",
+        "questionAggregates": "questionaggregates",
+        "metadata": "metadata",
+        "customerPulsesSummary": "customerpulsessummary"
+    }
+}
