@@ -5,7 +5,7 @@ bing-pulse
 [![Dependency Status](https://gemnasium.com/przemyslawpluta/bing-pulse.png)](https://gemnasium.com/przemyslawpluta/bing-pulse)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/przemyslawpluta/bing-pulse?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-Consume [Bing Pulse API](https://pulse.bing.com/)
+Consume [Microsoft Bing Pulse API](https://www.bingpulse.com/)
 
 ## Installation
 

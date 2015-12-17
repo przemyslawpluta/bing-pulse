@@ -1,9 +1,9 @@
 {
   "name": "bing-pulse",
   "preferGlobal": false,
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Przemyslaw Pluta <przemyslawplutadev@gmail.com> (http://przemyslawpluta.com)",
-  "description": "consume bing pulse api",
+  "description": "consume microsoft bing pulse api",
   "main": "bing-pulse.js",
   "directories": {
     "example": "examples"
@@ -18,11 +18,11 @@
   },
   "dependencies": {
     "accounting": "^0.4.1",
-    "camelcase-keys": "^1.0.0",
+    "camelcase-keys": "^2.0.0",
     "lodash": "^3.10.1",
     "moment": "^2.10.6",
-    "pretty-ms": "^2.0.0",
-    "request": "^2.64.0",
+    "pretty-ms": "^2.1.0",
+    "request": "^2.67.0",
     "sort-object": "^3.0.0",
     "waitjs": "^0.2.0"
   },
@@ -31,8 +31,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "pulse",
+    "microsoft",
     "bing",
+    "pulse",
     "api",
     "data"
   ],
