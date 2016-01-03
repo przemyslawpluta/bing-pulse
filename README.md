@@ -129,6 +129,7 @@ Listen on available bing pulse API endpoints.
 - [x] pulses
 - [x] annotations
 - [ ] quizzes
+- [ ] snapshot
 
 
 ## License

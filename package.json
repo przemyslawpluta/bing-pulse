@@ -1,7 +1,7 @@
 {
   "name": "bing-pulse",
   "preferGlobal": false,
-  "version": "0.1.4",
+  "version": "0.1.5",
   "author": "Przemyslaw Pluta <przemyslawplutadev@gmail.com> (http://przemyslawpluta.com)",
   "description": "consume microsoft bing pulse api",
   "main": "bing-pulse.js",
